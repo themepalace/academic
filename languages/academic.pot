@@ -1,0 +1,825 @@
+# Copyright (C) 2016 Theme Palace
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Academic 0.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2016-12-02 05:38:28+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: 404.php:24
+msgid "404"
+msgstr ""
+
+#: 404.php:25
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:29
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:61 comments.php:80
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:63 comments.php:83
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:64 comments.php:84
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:96
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:124
+msgid " %1$s"
+msgstr ""
+
+#: comments.php:132
+msgid "Reply <span>&darr;</span>"
+msgstr ""
+
+#: functions.php:48
+msgid "Primary"
+msgstr ""
+
+#: functions.php:244
+msgid "Gallery Thumbnail"
+msgstr ""
+
+#: inc/core.php:43
+msgid "Note"
+msgstr ""
+
+#: inc/core.php:43
+msgid " The recommended size for image is 1170px by 500px while using it for slider"
+msgstr ""
+
+#: inc/customizer/custom-controls.php:182
+#: inc/customizer/custom-controls.php:261
+msgid "--None--"
+msgstr ""
+
+#: inc/customizer/customizer.php:48
+msgid "Sections"
+msgstr ""
+
+#: inc/customizer/customizer.php:49
+msgid "Section Options."
+msgstr ""
+
+#: inc/customizer/customizer.php:70
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:71
+msgid "Theme Options."
+msgstr ""
+
+#: inc/customizer/defaults.php:27 inc/modules/about.php:67
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/defaults.php:55
+#: inc/customizer/sections/category-blog-first.php:11
+msgid "First Category Blog"
+msgstr ""
+
+#: inc/customizer/defaults.php:66
+#: inc/customizer/sections/category-blog-second.php:11
+msgid "Second Category Blog"
+msgstr ""
+
+#: inc/customizer/defaults.php:67
+msgid "How can we help you"
+msgstr ""
+
+#: inc/customizer/defaults.php:73
+msgid "Our Partners"
+msgstr ""
+
+#: inc/customizer/defaults.php:81
+msgid "Stay Updated With University"
+msgstr ""
+
+#: inc/customizer/defaults.php:82
+msgid "Lorem Ipsum roin gravida nibh vel"
+msgstr ""
+
+#: inc/customizer/defaults.php:85
+msgid "Contact Info"
+msgstr ""
+
+#: inc/customizer/defaults.php:87
+msgid "28 Jackson Blvd Ste 1020 Chicago IL 60604-2340"
+msgstr ""
+
+#: inc/customizer/defaults.php:89
+msgid "Location Map"
+msgstr ""
+
+#: inc/customizer/sections/about.php:11
+msgid "About"
+msgstr ""
+
+#: inc/customizer/sections/about.php:12
+msgid "About section options."
+msgstr ""
+
+#: inc/customizer/sections/about.php:23
+#: inc/customizer/sections/category-blog-first.php:23
+#: inc/customizer/sections/category-blog-second.php:23
+#: inc/customizer/sections/partner.php:23 inc/customizer/sections/slider.php:23
+msgid "Enable on"
+msgstr ""
+
+#: inc/customizer/sections/about.php:35
+msgid "Select Page"
+msgstr ""
+
+#: inc/customizer/sections/category-blog-first.php:12
+msgid "First Category Blog options."
+msgstr ""
+
+#: inc/customizer/sections/category-blog-first.php:37
+#: inc/customizer/sections/category-blog-second.php:37
+#: inc/customizer/sections/partner.php:37
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/sections/category-blog-first.php:60
+#: inc/customizer/sections/category-blog-second.php:60
+#: inc/customizer/sections/partner.php:60
+msgid "Enable Slide Dragable"
+msgstr ""
+
+#: inc/customizer/sections/category-blog-first.php:73
+msgid "Enable Slide Auto Slide"
+msgstr ""
+
+#: inc/customizer/sections/category-blog-first.php:86
+#: inc/customizer/sections/category-blog-second.php:106
+#: inc/customizer/theme-options/layout.php:11
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer/sections/category-blog-first.php:100
+#: inc/customizer/sections/category-blog-second.php:120
+msgid "Content Type"
+msgstr ""
+
+#: inc/customizer/sections/category-blog-first.php:114
+msgid "Icon"
+msgstr ""
+
+#: inc/customizer/sections/category-blog-first.php:115
+msgid "Use font awesome icon: Eg: %s. %sSee more here%s"
+msgstr ""
+
+#: inc/customizer/sections/category-blog-first.php:127
+msgid "Select Parent Category"
+msgstr ""
+
+#: inc/customizer/sections/category-blog-second.php:12
+msgid "Second Category Blog options."
+msgstr ""
+
+#: inc/customizer/sections/category-blog-second.php:73
+#: inc/customizer/sections/partner.php:73
+msgid "Enable Auto Slide"
+msgstr ""
+
+#: inc/customizer/sections/category-blog-second.php:87
+msgid "No. of Articles"
+msgstr ""
+
+#: inc/customizer/sections/category-blog-second.php:88
+msgid "Min 1 / Max 12"
+msgstr ""
+
+#: inc/customizer/sections/category-blog-second.php:133
+msgid "Select Category"
+msgstr ""
+
+#: inc/customizer/sections/partner.php:11
+msgid "Partners"
+msgstr ""
+
+#: inc/customizer/sections/partner.php:12
+msgid "Partners options."
+msgstr ""
+
+#: inc/customizer/sections/partner.php:87
+msgid "No of partners"
+msgstr ""
+
+#: inc/customizer/sections/partner.php:88
+msgid ""
+"Min 1 / Max 15. Notice: Please refresh after the number of features is set "
+"to see the effects."
+msgstr ""
+
+#: inc/customizer/sections/partner.php:110
+msgid "Select Page # %s"
+msgstr ""
+
+#: inc/customizer/sections/slider.php:11
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer/sections/slider.php:12
+msgid "Slider section options."
+msgstr ""
+
+#: inc/customizer/sections/slider.php:36
+msgid "Transition Effects"
+msgstr ""
+
+#: inc/customizer/sections/slider.php:50
+msgid "Enable Arrow Controls"
+msgstr ""
+
+#: inc/customizer/sections/slider.php:63
+msgid "Enable Pager Controls"
+msgstr ""
+
+#: inc/customizer/sections/slider.php:76
+msgid "Slider Dragable"
+msgstr ""
+
+#: inc/customizer/sections/slider.php:90
+msgid "Number of slides"
+msgstr ""
+
+#: inc/customizer/sections/slider.php:91
+msgid "Notice: Please refresh after the number of slides is set to see the effects."
+msgstr ""
+
+#: inc/customizer/sections/slider.php:112
+msgid "Page Slider #%s"
+msgstr ""
+
+#: inc/customizer/theme-options/breadcrumb.php:10
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/customizer/theme-options/breadcrumb.php:11
+msgid "Breadcrumb section options."
+msgstr ""
+
+#: inc/customizer/theme-options/breadcrumb.php:22
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/customizer/theme-options/breadcrumb.php:34
+msgid "Breadcrumb Seperator"
+msgstr ""
+
+#: inc/customizer/theme-options/excerpt.php:11
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer/theme-options/excerpt.php:12
+msgid "Excerpt section options."
+msgstr ""
+
+#: inc/customizer/theme-options/excerpt.php:25
+msgid "Blog Page Excerpt Length"
+msgstr ""
+
+#: inc/customizer/theme-options/excerpt.php:26
+msgid "Total words to be displayed in archive page/search page."
+msgstr ""
+
+#: inc/customizer/theme-options/excerpt.php:43
+msgid "Read More Text"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:12
+msgid "Footer Options"
+msgstr ""
+
+#: inc/customizer/theme-options/footer.php:27
+msgid "Display Scroll Top Button"
+msgstr ""
+
+#: inc/customizer/theme-options/homepage-static.php:16
+msgid "Enable Content"
+msgstr ""
+
+#: inc/customizer/theme-options/homepage-static.php:17
+msgid "Check to enable content on static front page only."
+msgstr ""
+
+#: inc/customizer/theme-options/layout.php:12
+msgid "Layout section options."
+msgstr ""
+
+#: inc/customizer/theme-options/layout.php:23 inc/metabox/sidebar-layout.php:13
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/customizer/theme-options/layout.php:36
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer/theme-options/pagination.php:11
+msgid "Pagination"
+msgstr ""
+
+#: inc/customizer/theme-options/pagination.php:12
+msgid "Pagination section options."
+msgstr ""
+
+#: inc/customizer/theme-options/pagination.php:23
+msgid "Pagination Enable"
+msgstr ""
+
+#: inc/customizer/theme-options/pagination.php:35
+msgid "Pagination Type"
+msgstr ""
+
+#: inc/customizer/theme-options/reset.php:14
+msgid "Reset all settings"
+msgstr ""
+
+#: inc/customizer/theme-options/reset.php:15
+msgid ""
+"Caution: All settings will be reset to default. Refresh the page after "
+"clicking Save & Publish."
+msgstr ""
+
+#: inc/customizer/theme-options/reset.php:26
+msgid "Check to reset all settings"
+msgstr ""
+
+#: inc/customizer/upgrade-to-pro/class-customize.php:76
+msgid "Academic Pro"
+msgstr ""
+
+#: inc/customizer/upgrade-to-pro/class-customize.php:77
+msgid "Go Pro"
+msgstr ""
+
+#: inc/customizer/validation.php:18 inc/customizer/validation.php:37
+#: inc/customizer/validation.php:60 inc/customizer/validation.php:79
+#: inc/customizer/validation.php:97 inc/customizer/validation.php:114
+#: inc/customizer/validation.php:133 inc/customizer/validation.php:151
+#: inc/customizer/validation.php:170
+msgid "You must supply a valid number."
+msgstr ""
+
+#: inc/customizer/validation.php:20 inc/customizer/validation.php:39
+msgid "Minimum no of words is 5"
+msgstr ""
+
+#: inc/customizer/validation.php:22
+msgid "Maximum no of words is 100"
+msgstr ""
+
+#: inc/customizer/validation.php:41
+msgid "Maximum no of words is 25"
+msgstr ""
+
+#: inc/customizer/validation.php:62
+msgid "Minimum value is 1"
+msgstr ""
+
+#: inc/customizer/validation.php:64
+msgid "Maximum value is 3"
+msgstr ""
+
+#: inc/customizer/validation.php:81
+msgid "Minimum no of slide is 1"
+msgstr ""
+
+#: inc/customizer/validation.php:83
+msgid "Maximum no of slide is 5"
+msgstr ""
+
+#: inc/customizer/validation.php:99
+msgid "Minimum no of statistics is 1"
+msgstr ""
+
+#: inc/customizer/validation.php:101
+msgid "Maximum no of statistics is 6"
+msgstr ""
+
+#: inc/customizer/validation.php:116
+msgid "Minimum number of posts is 1"
+msgstr ""
+
+#: inc/customizer/validation.php:118
+msgid "Maximum number of posts is 15"
+msgstr ""
+
+#: inc/customizer/validation.php:135 inc/customizer/validation.php:153
+msgid "Minimum no of article is 1"
+msgstr ""
+
+#: inc/customizer/validation.php:137 inc/customizer/validation.php:155
+msgid "Maximum no of articles is 12"
+msgstr ""
+
+#: inc/customizer/validation.php:172
+msgid "Minimum no of list is 1"
+msgstr ""
+
+#: inc/customizer/validation.php:174
+msgid "Maximum no of Lists is 15"
+msgstr ""
+
+#: inc/extras.php:62
+msgid "Search..."
+msgstr ""
+
+#: inc/helpers.php:117 inc/helpers.php:118
+msgid "Archive for <em>%s</em>"
+msgstr ""
+
+#: inc/helpers.php:119
+msgid "Search results for: <em>%s</em>"
+msgstr ""
+
+#: inc/helpers.php:120
+msgid "Posts tagged <em>%s</em>"
+msgstr ""
+
+#: inc/helpers.php:121
+msgid "View all posts by <em>%s</em>"
+msgstr ""
+
+#: inc/helpers.php:122
+msgid "Error 404"
+msgstr ""
+
+#: inc/helpers.php:240
+msgid "Page"
+msgstr ""
+
+#: inc/helpers.php:269
+msgid "Previous Posts"
+msgstr ""
+
+#: inc/helpers.php:270
+msgid "Next Posts"
+msgstr ""
+
+#: inc/helpers.php:513
+msgid "404 Page"
+msgstr ""
+
+#: inc/helpers.php:515
+msgid "Search Page"
+msgstr ""
+
+#: inc/helpers.php:519
+msgid "Blog Page"
+msgstr ""
+
+#: inc/metabox/header-image.php:13 inc/metabox/metabox.php:25
+msgid "Header Image"
+msgstr ""
+
+#: inc/metabox/header-image.php:15
+msgid "Default ( Customizer Header Image )"
+msgstr ""
+
+#: inc/metabox/metabox.php:22
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/metabox/sidebar-layout.php:15
+msgid "Default ( to customizer option )"
+msgstr ""
+
+#: inc/modules/category-blog-first.php:76
+msgid "fa-snapchat-ghost"
+msgstr ""
+
+#: inc/options.php:15
+msgid "Wide"
+msgstr ""
+
+#: inc/options.php:16
+msgid "Boxed"
+msgstr ""
+
+#: inc/options.php:30
+msgid "Right"
+msgstr ""
+
+#: inc/options.php:31
+msgid "Left"
+msgstr ""
+
+#: inc/options.php:32
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/options.php:46
+msgid "Enable( Featured Image )"
+msgstr ""
+
+#: inc/options.php:47
+msgid "Show Both( Featured and Header Image )"
+msgstr ""
+
+#: inc/options.php:48
+msgid "Disable"
+msgstr ""
+
+#: inc/options.php:62
+msgid "Numeric"
+msgstr ""
+
+#: inc/options.php:63
+msgid "Default(Older/Newer)"
+msgstr ""
+
+#: inc/options.php:82 inc/options.php:98
+msgid "Static Frontpage"
+msgstr ""
+
+#: inc/options.php:83 inc/options.php:99
+msgid "Disabled"
+msgstr ""
+
+#: inc/options.php:100
+msgid "Entrie Site"
+msgstr ""
+
+#: inc/options.php:115
+msgid "Fade"
+msgstr ""
+
+#: inc/options.php:116
+msgid "Linear"
+msgstr ""
+
+#: inc/options.php:137
+msgid "Multiple Category"
+msgstr ""
+
+#: inc/options.php:138 inc/widgets/recent-posts.php:53
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/options.php:152
+msgid "3 Column"
+msgstr ""
+
+#: inc/options.php:153 inc/options.php:168
+msgid "4 Column"
+msgstr ""
+
+#: inc/options.php:169
+msgid "5 Column"
+msgstr ""
+
+#: inc/options.php:170
+msgid "6 Column"
+msgstr ""
+
+#: inc/options.php:184
+msgid "Categories"
+msgstr ""
+
+#: inc/options.php:185
+msgid "Sub Categories"
+msgstr ""
+
+#: inc/structure.php:64
+msgid "Skip to content"
+msgstr ""
+
+#: inc/structure.php:284
+msgid "by"
+msgstr ""
+
+#: inc/template-tags.php:35
+msgid "Comments"
+msgstr ""
+
+#: inc/template-tags.php:44 inc/template-tags.php:63 inc/template-tags.php:69
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:65
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:71
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:78
+#. translators: %s: post title
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:85 template-parts/content-page.php:47
+#. translators: %s: Name of current post
+msgid "Edit %s"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:32
+msgid "Your site&#8217;s most recent Posts with Featured Image."
+msgstr ""
+
+#: inc/widgets/recent-posts.php:35
+msgid "TP: Recent Posts"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:138 inc/widgets/social-link.php:78
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:141
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:145
+msgid "Display post date?"
+msgstr ""
+
+#: inc/widgets/social-link.php:27
+msgid "Enter the url only the icon will be displayed as per the links."
+msgstr ""
+
+#: inc/widgets/social-link.php:29
+msgid "TP : Social Link"
+msgstr ""
+
+#: inc/widgets/social-link.php:44 inc/widgets/social-link.php:73
+msgid "Stay Connected"
+msgstr ""
+
+#: inc/widgets/social-link.php:83
+msgid "Number of links to show:"
+msgstr ""
+
+#: inc/widgets/social-link.php:90
+msgid "Link %s :"
+msgstr ""
+
+#: inc/widgets/widgets.php:19
+msgid "Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:21
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets/widgets.php:30
+msgid "Footer "
+msgstr ""
+
+#: inc/widgets/widgets.php:32
+msgid "Add footer widgets here."
+msgstr ""
+
+#: search.php:28
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:35 template-parts/content-single.php:53
+#: template-parts/content.php:46
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:48 template-parts/content.php:41
+#. translators: %s: Name of current post.
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Academic"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://themepalace.com/downloads/academic/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A clean, modern, engaging and responsive WordPress education theme ideal "
+"for educational institutions and agencies. Features including full width "
+"and boxed layout with slider, focused content, slick effects, "
+"posts/features/courses showcasing.  It is loaded with theme options and "
+"provides several features to make user-friendly, interactive and visually "
+"stunning website with implementation of all features of latest WordPress "
+"like partial refresh and validation. It is compatible with top WordPress "
+"plugins such as JetPack and Contact Form 7. A special accent is made on its "
+"cross-browser compatibility, mobile friendly design and responsive features."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Theme Palace"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themepalace.com/"
+msgstr ""
+
+#: comments.php:52
+msgctxt "comments title"
+msgid "Feedback on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Feedbacks on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/template-tags.php:37
+msgctxt "comments title"
+msgid "1 comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:115
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:120
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat Sans, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:125
+#. translators: If there are characters in your language that are not supported
+#. by Courgette, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Courgette font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:130
+#. translators: If there are characters in your language that are not supported
+#. by Roboto, translate this to 'off'. Do not translate into your own language.
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:135
+#. translators: If there are characters in your language that are not supported
+#. by Raleway, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:140
+#. translators: If there are characters in your language that are not supported
+#. by Poppins, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/structure.php:284
+msgctxt "1: Year, 2: Site Title with home URL"
+msgid "Copyright &copy; %1$s. All Rights Reserved"
+msgstr ""
+
+#: inc/template-tags.php:30
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
